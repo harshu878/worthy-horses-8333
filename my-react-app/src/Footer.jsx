@@ -40,7 +40,7 @@ const Footer = () => {
         <p>Security</p>
     </div>
 </footer>
-<p className="p">Copyright © 2020 TimeCamp. Inc 
+<p className="p">Copyright © 2022 TimeCamp. Inc 
 We use cookies. Click here to learn more</p></div>
   )
 }
